@@ -1,4 +1,4 @@
-<h3>📌관심있는 분야</h3>
+<h3>📌좋아하는 분야</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-F05032?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3)
