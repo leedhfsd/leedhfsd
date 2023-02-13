@@ -6,4 +6,4 @@
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Next.js]https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
