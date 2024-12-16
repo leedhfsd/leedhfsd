@@ -2,6 +2,9 @@
 
 새로운 것을 배우고 적용하는 게 좋은 백엔드 개발자입니다.
 
+### Portfolio.
+Portfolio. [**https://numerous-stoplight-760.notion.site/14525e3d9324809c92b7ecddb99ab7ef?pvs=74**](https://numerous-stoplight-760.notion.site/14525e3d9324809c92b7ecddb99ab7ef?pvs=74)
+
 ### Contact.
 
 Email. leedhfsd@gmail.com
@@ -12,7 +15,6 @@ GitHub. [**https://github.com/leedhfsd**](https://github.com/leedhfsd)
 
 Blog. [**https://leedhfsd.tistory.com/**](https://leedhfsd.tistory.com/)
 
-![11.jpg](11.jpg)
 
 ## 교육
 
@@ -31,6 +33,6 @@ Blog. [**https://leedhfsd.tistory.com/**](https://leedhfsd.tistory.com/)
 - 2024.06     정보처리기사
 - 2023.10     SQLD
 
-## 기술 스택
+# PS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedhfsdssafy)](https://solved.ac/leedhfsdssafy/)
 
-[Skills](https://www.notion.so/14525e3d9324813aa85bd2815ac53362?pvs=21)
