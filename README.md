@@ -1,37 +1,39 @@
-<div>
-  <h1>이대현 | 프론트엔드 개발자</h1>
-  <p>React, Typescript 기반의 웹 프론트엔드 개발자입니다.</p>
-  <p>새로운 것을 배우고 프로젝트에 적용하는 것을 좋아합니다!!</p>
-  <h3>강점</h3>
-    <li>여러 번의 프로젝트를 통한 다양한 협업 경험과 커뮤니케이션 능력</li>
-    <li>데이터베이스부터 백엔드 그리고 프론트엔드까지 웹 개발 전반에 대한 높은 이해</li>
-    <li>다수의 사용자 인터페이스 구현 경험</li>
-<h3>🔎 Profile</h3>
-<div>
-  <h4>학력</h4>
-  <p>서울시립대학교 컴퓨터과학부 졸업(2016.03 ~ 2023.02)</p>
-</div>
-<div>
-  <h3>🛠 Skills</h3>
-  <h4>Strong</h4>
-  <div>
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
-  </div>
-  <h4>Knowledgeable</h4>
-  <div>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-  </div>
-  <h4>ETC</h4>
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  </div>
-</div>
-</div>
+# 이대현 | 백엔드 개발자
+
+새로운 것을 배우고 적용하는 게 좋은 백엔드 개발자입니다.
+
+### Contact.
+
+Email. leedhfsd@gmail.com
+
+### Channel.
+
+GitHub. [**https://github.com/leedhfsd**](https://github.com/leedhfsd)
+
+Blog. [**https://leedhfsd.tistory.com/**](https://leedhfsd.tistory.com/)
+
+![11.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/bddee61f-95c1-4484-b0fd-ab4e88474bd0/f2b4447f-5520-49d3-91d1-d771aa8b66fa/11.jpg)
+
+## 교육
+
+---
+
+- 삼성 청년 SW 아카데미 11기 교육 수료
+2024.01 - 2024.12
+- 서울시립대학교 컴퓨터과학부 졸업
+2016.03 - 2023.02
+
+## 수상 / 자격증
+
+---
+
+- 2024.09     특화 프로젝트(핀테크) - 우수상 (삼성 청년 SW 아카데미)
+- 2024.06     정보처리기사
+- 2023.10     SQLD
+
+## 기술 스택
+
+[Skills](https://www.notion.so/14525e3d9324813aa85bd2815ac53362?pvs=21)
+
+[Skills (1)](https://www.notion.so/15025e3d9324802aaaabf16cf3f1b228?pvs=21)
+
