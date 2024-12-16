@@ -12,7 +12,7 @@ GitHub. [**https://github.com/leedhfsd**](https://github.com/leedhfsd)
 
 Blog. [**https://leedhfsd.tistory.com/**](https://leedhfsd.tistory.com/)
 
-![11.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/bddee61f-95c1-4484-b0fd-ab4e88474bd0/f2b4447f-5520-49d3-91d1-d771aa8b66fa/11.jpg)
+![11.jpg](11.jpg)
 
 ## 교육
 
@@ -34,6 +34,3 @@ Blog. [**https://leedhfsd.tistory.com/**](https://leedhfsd.tistory.com/)
 ## 기술 스택
 
 [Skills](https://www.notion.so/14525e3d9324813aa85bd2815ac53362?pvs=21)
-
-[Skills (1)](https://www.notion.so/15025e3d9324802aaaabf16cf3f1b228?pvs=21)
-
